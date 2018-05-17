@@ -10,9 +10,9 @@
     { "addr": "0x91739eeb4f3600442ea6a42c43f7fa8cd8f78a3d", "info": "Deployed 06/30/2016" },
     { "addr": "0x0000000000000000000000000000000000000000", "info": "Zero contract" }
   ],
-  "ethTestnet": "ropsten",
-  "ethChainId": 3,
-  "ethProvider": "http://localhost:8545",
+  "ethTestnet": "quorom",
+  "ethChainId": 5,
+  "ethProvider": "https://u0ml1o2obi:_WQh8iVpoefkBNwqMXCDsCl_FsPa38dCePU@u0qev9iirv-u0mibmo4uq-rpc.us-east-2.kaleido.io",
   "ethGasPrice": 20000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
