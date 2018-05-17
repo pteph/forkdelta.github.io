@@ -38,7 +38,7 @@
     { "addr": "0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63", "name": "SONM", "decimals": 18 },
     { "addr": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2", "name": "MKR", "decimals": 18 },
     { "addr": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07", "name": "OMG", "decimals": 18 },
-    { "addr": "0xe41d2489571d322189246dafa5ebde1f4699f498", "name": "ZRX", "decimals": 18 },
+    { "addr": "0xe41d2489571d322189246dafa5ebde1f4699f498", "name": "ZRX", "decimals": 18 }
      ],
   "defaultPair": { "token": "DAI", "base": "ETH" }
 }
